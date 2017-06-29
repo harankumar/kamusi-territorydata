@@ -1,5 +1,7 @@
 {
   "BR": "Brasilän",
+  "NR": "Naureän",
+  "PW": "Palauäns",
   "GE": "Grusiyän",
   "CN": "Tsyinän",
   "JP": "Yapän",
@@ -13,7 +15,5 @@
   "ES": "Spanyän",
   "GR": "Grikän",
   "IT": "Litaliyän",
-  "PT": "Portugän",
-  "NR": "Naureän",
-  "PW": "Palauäns"
+  "PT": "Portugän"
 }

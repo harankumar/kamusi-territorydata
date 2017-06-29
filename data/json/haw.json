@@ -1,4 +1,6 @@
 {
+  "AU": "Nūhōlani",
+  "NZ": "Aotearoa",
   "IL": "ʻIseraʻela",
   "CN": "Kina",
   "JP": "Iāpana",
@@ -16,7 +18,5 @@
   "RU": "Lūkia",
   "ES": "Kepania",
   "GR": "Helene",
-  "IT": "ʻĪkālia",
-  "AU": "Nūhōlani",
-  "NZ": "Aotearoa"
+  "IT": "ʻĪkālia"
 }

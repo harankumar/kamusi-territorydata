@@ -6,6 +6,11 @@
   "CO": "Kolombi",
   "EC": "Ekuador",
   "GY": "Giyan",
+  "AU": "Ostraalia",
+  "NF": "Ecinkey yati Noorfok",
+  "FJ": "Fiji",
+  "GU": "Guam",
+  "AS": "Samoa yati Amerik",
   "AM": "Armeni",
   "AZ": "Aserbaysan",
   "BH": "Bahrayn",
@@ -101,10 +106,5 @@
   "KM": "Komor",
   "MG": "Madagaskaar",
   "SO": "Somali",
-  "BW": "Boswana",
-  "AU": "Ostraalia",
-  "NF": "Ecinkey yati Noorfok",
-  "FJ": "Fiji",
-  "GU": "Guam",
-  "AS": "Samoa yati Amerik"
+  "BW": "Boswana"
 }

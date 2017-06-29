@@ -1,6 +1,12 @@
 {
   "FK": "Ilhas Falkland",
   "FK-variant": "Ilhas Malvinas",
+  "NC": "Nova Caledónia",
+  "GU": "Guame",
+  "TK": "Toquelau",
+  "CC": "Ilhas dos Cocos (Keeling)",
+  "CX": "Ilha do Natal",
+  "UM": "Ilhas Menores Afastadas dos EUA",
   "AM": "Arménia",
   "BH": "Barém",
   "PS": "Territórios palestinianos",
@@ -49,11 +55,5 @@
   "MU": "Maurícia",
   "MW": "Maláui",
   "YT": "Maiote",
-  "ZW": "Zimbabué",
-  "NC": "Nova Caledónia",
-  "GU": "Guame",
-  "TK": "Toquelau",
-  "CC": "Ilhas dos Cocos (Keeling)",
-  "CX": "Ilha do Natal",
-  "UM": "Ilhas Menores Afastadas dos EUA"
+  "ZW": "Zimbabué"
 }
