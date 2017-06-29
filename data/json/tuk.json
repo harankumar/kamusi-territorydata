@@ -1,5 +1,4 @@
 {
-  "AU": "Awstraliýa",
   "AZ": "Azerbaýjan",
   "IL": "Ysraýyl",
   "TR": "Türkiýe",
@@ -10,10 +9,11 @@
   "IN": "Hindistan",
   "IR": "Eýran",
   "PK": "Pakistan",
-  "US": "A.B.Ş.",
   "GB": "Britaniýa",
   "DE": "Germaniýa",
   "RU": "Orusýet",
   "UA": "Ukraina",
-  "IT": "Italiýa"
+  "IT": "Italiýa",
+  "US": "A.B.Ş.",
+  "AU": "Awstraliýa"
 }
