@@ -162,36 +162,24 @@ msgid "Cocos (Keeling) Islands"
 msgstr "കോക്കസ് (കീലിംഗ്) ദ്വീപുകൾ"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "കോംഗോ - കിൻഷാസ"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "കോംഗോ (DRC)"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "കോംഗോ - കിൻഷാസ,കോംഗോ (DRC)"
 
 #: CF
 msgid "Central African Republic"
 msgstr "സെൻട്രൽ ആഫ്രിക്കൻ റിപ്പബ്ലിക്"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "കോംഗോ - ബ്രാസവില്ലി"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "കോംഗോ (റിപ്പബ്ലിക്ക്)"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "കോംഗോ - ബ്രാസവില്ലി,കോംഗോ (റിപ്പബ്ലിക്ക്)"
 
 #: CH
 msgid "Switzerland"
 msgstr "സ്വിറ്റ്സർലാൻഡ്"
 
 #: CI
-msgid "Côte d’Ivoire"
-msgstr "കോട്ട് ഡി വാർ"
-
-#: CI-variant
-msgid "Ivory Coast"
-msgstr "ഐവറി കോസ്റ്റ്"
+msgid "Côte d’Ivoire,Ivory Coast"
+msgstr "കോട്ട് ഡി വാർ,ഐവറി കോസ്റ്റ്"
 
 #: CK
 msgid "Cook Islands"
@@ -242,12 +230,8 @@ msgid "Cyprus"
 msgstr "സൈപ്രസ്"
 
 #: CZ
-msgid "Czechia"
-msgstr "ചെക്കിയ"
-
-#: CZ-variant
-msgid "Czech Republic"
-msgstr "ചെക്ക് റിപ്പബ്ലിക്"
+msgid "Czechia,Czech Republic"
+msgstr "ചെക്കിയ,ചെക്ക് റിപ്പബ്ലിക്"
 
 #: DE
 msgid "Germany"
@@ -318,12 +302,8 @@ msgid "Fiji"
 msgstr "ഫിജി"
 
 #: FK
-msgid "Falkland Islands"
-msgstr "ഫാക്ക്‌ലാന്റ് ദ്വീപുകൾ"
-
-#: FK-variant
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "ഫോക്ക്‌ലാൻഡ് ദ്വീപുകൾ (ഐലാസ് മാൽവിനാസ്)"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
+msgstr "ഫാക്ക്‌ലാന്റ് ദ്വീപുകൾ,ഫോക്ക്‌ലാൻഡ് ദ്വീപുകൾ (ഐലാസ് മാൽവിനാസ്)"
 
 #: FM
 msgid "Micronesia"
@@ -622,12 +602,8 @@ msgid "Marshall Islands"
 msgstr "മാർഷൽ‍‍ ദ്വീപുകൾ"
 
 #: MK
-msgid "Macedonia"
-msgstr "മാസിഡോണിയ"
-
-#: MK-variant
-msgid "Macedonia (FYROM)"
-msgstr "മാസിഡോണിയ (FYROM)"
+msgid "Macedonia,Macedonia (FYROM)"
+msgstr "മാസിഡോണിയ,മാസിഡോണിയ (FYROM)"
 
 #: ML
 msgid "Mali"
@@ -946,12 +922,8 @@ msgid "Tokelau"
 msgstr "ടോക്കെലൂ"
 
 #: TL
-msgid "Timor-Leste"
-msgstr "തിമോർ-ലെസ്റ്റെ"
-
-#: TL-variant
-msgid "East Timor"
-msgstr "കിഴക്കൻ തിമോർ"
+msgid "Timor-Leste,East Timor"
+msgstr "തിമോർ-ലെസ്റ്റെ,കിഴക്കൻ തിമോർ"
 
 #: TM
 msgid "Turkmenistan"

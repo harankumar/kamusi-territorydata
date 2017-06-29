@@ -134,7 +134,7 @@ msgid "Canada"
 msgstr "Kanada"
 
 #: CD
-msgid "Congo - Kinshasa"
+msgid "Congo - Kinshasa,Congo (DRC)"
 msgstr "Repoblikan’i Kongo"
 
 #: CF
@@ -142,7 +142,7 @@ msgid "Central African Republic"
 msgstr "Repoblika Ivon’Afrika"
 
 #: CG
-msgid "Congo - Brazzaville"
+msgid "Congo - Brazzaville,Congo (Republic)"
 msgstr "Kôngô"
 
 #: CH
@@ -150,7 +150,7 @@ msgid "Switzerland"
 msgstr "Soisa"
 
 #: CI
-msgid "Côte d’Ivoire"
+msgid "Côte d’Ivoire,Ivory Coast"
 msgstr "Côte d’Ivoire"
 
 #: CK
@@ -190,7 +190,7 @@ msgid "Cyprus"
 msgstr "Sypra"
 
 #: CZ
-msgid "Czechia"
+msgid "Czechia,Czech Republic"
 msgstr "Repoblikan’i Tseky"
 
 #: DE
@@ -250,7 +250,7 @@ msgid "Fiji"
 msgstr "Fidji"
 
 #: FK
-msgid "Falkland Islands"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
 msgstr "Nosy Falkand"
 
 #: FM
@@ -502,7 +502,7 @@ msgid "Marshall Islands"
 msgstr "Nosy Marshall"
 
 #: MK
-msgid "Macedonia"
+msgid "Macedonia,Macedonia (FYROM)"
 msgstr "Makedonia"
 
 #: ML
@@ -786,7 +786,7 @@ msgid "Tokelau"
 msgstr "Tokelao"
 
 #: TL
-msgid "Timor-Leste"
+msgid "Timor-Leste,East Timor"
 msgstr "Timor Atsinanana"
 
 #: TM

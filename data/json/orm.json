@@ -1,14 +1,14 @@
 {
   "BR": "Brazil",
-  "CN": "China",
-  "JP": "Japan",
-  "IN": "India",
-  "ET": "Itoophiyaa",
-  "KE": "Keeniyaa",
+  "US": "United States",
   "GB": "United Kingdom",
   "DE": "Germany",
   "FR": "France",
   "RU": "Russia",
   "IT": "Italy",
-  "US": "United States"
+  "ET": "Itoophiyaa",
+  "KE": "Keeniyaa",
+  "CN": "China",
+  "JP": "Japan",
+  "IN": "India"
 }

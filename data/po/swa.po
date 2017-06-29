@@ -162,36 +162,24 @@ msgid "Cocos (Keeling) Islands"
 msgstr "Visiwa vya Cocos (Keeling)"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "Jamhuri ya Kidemokrasia ya Kongo"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "Kongo (DRC)"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "Jamhuri ya Kidemokrasia ya Kongo,Kongo (DRC)"
 
 #: CF
 msgid "Central African Republic"
 msgstr "Jamhuri ya Afrika ya Kati"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "Kongo - Brazzaville"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "Jamhuri ya Kongo"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "Kongo - Brazzaville,Jamhuri ya Kongo"
 
 #: CH
 msgid "Switzerland"
 msgstr "Uswisi"
 
 #: CI
-msgid "Côte d’Ivoire"
-msgstr "Côte d’Ivoire"
-
-#: CI-variant
-msgid "Ivory Coast"
-msgstr "Ivory Coast"
+msgid "Côte d’Ivoire,Ivory Coast"
+msgstr "Côte d’Ivoire,Ivory Coast"
 
 #: CK
 msgid "Cook Islands"
@@ -242,12 +230,8 @@ msgid "Cyprus"
 msgstr "Cyprus"
 
 #: CZ
-msgid "Czechia"
-msgstr "Chechia"
-
-#: CZ-variant
-msgid "Czech Republic"
-msgstr "Jamhuri ya Cheki"
+msgid "Czechia,Czech Republic"
+msgstr "Chechia,Jamhuri ya Cheki"
 
 #: DE
 msgid "Germany"
@@ -318,12 +302,8 @@ msgid "Fiji"
 msgstr "Fiji"
 
 #: FK
-msgid "Falkland Islands"
-msgstr "Visiwa vya Falkland"
-
-#: FK-variant
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "Visiwa vya Falkland (Islas Malvinas)"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
+msgstr "Visiwa vya Falkland,Visiwa vya Falkland (Islas Malvinas)"
 
 #: FM
 msgid "Micronesia"
@@ -622,12 +602,8 @@ msgid "Marshall Islands"
 msgstr "Visiwa vya Marshall"
 
 #: MK
-msgid "Macedonia"
-msgstr "Macedonia"
-
-#: MK-variant
-msgid "Macedonia (FYROM)"
-msgstr "Masedonia (FYROM)"
+msgid "Macedonia,Macedonia (FYROM)"
+msgstr "Macedonia,Masedonia (FYROM)"
 
 #: ML
 msgid "Mali"
@@ -946,12 +922,8 @@ msgid "Tokelau"
 msgstr "Tokelau"
 
 #: TL
-msgid "Timor-Leste"
-msgstr "Timor-Leste"
-
-#: TL-variant
-msgid "East Timor"
-msgstr "Timor ya Mashariki"
+msgid "Timor-Leste,East Timor"
+msgstr "Timor-Leste,Timor ya Mashariki"
 
 #: TM
 msgid "Turkmenistan"

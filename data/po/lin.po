@@ -158,31 +158,23 @@ msgid "Cocos (Keeling) Islands"
 msgstr "Bisanga Kokos"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "Republíki ya Kongó Demokratíki"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "Kongó-Kinsásá"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "Republíki ya Kongó Demokratíki,Kongó-Kinsásá"
 
 #: CF
 msgid "Central African Republic"
 msgstr "Repibiki ya Afríka ya Káti"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "Kongo"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "Kongó-Brazzaville"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "Kongo,Kongó-Brazzaville"
 
 #: CH
 msgid "Switzerland"
 msgstr "Swisɛ"
 
 #: CI
-msgid "Côte d’Ivoire"
+msgid "Côte d’Ivoire,Ivory Coast"
 msgstr "Kotídivualɛ"
 
 #: CK
@@ -230,12 +222,8 @@ msgid "Cyprus"
 msgstr "Sípɛlɛ"
 
 #: CZ
-msgid "Czechia"
-msgstr "Shekia"
-
-#: CZ-variant
-msgid "Czech Republic"
-msgstr "Repibiki Tsekɛ"
+msgid "Czechia,Czech Republic"
+msgstr "Shekia,Repibiki Tsekɛ"
 
 #: DE
 msgid "Germany"
@@ -302,12 +290,8 @@ msgid "Fiji"
 msgstr "Fidzi"
 
 #: FK
-msgid "Falkland Islands"
-msgstr "Bisanga bya Maluni"
-
-#: FK-variant
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "Bisanga bya Falklandí (Bisanga bya Maluni)"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
+msgstr "Bisanga bya Maluni,Bisanga bya Falklandí (Bisanga bya Maluni)"
 
 #: FM
 msgid "Micronesia"
@@ -602,12 +586,8 @@ msgid "Marshall Islands"
 msgstr "Bisanga bya Marishalɛ"
 
 #: MK
-msgid "Macedonia"
-msgstr "Masedwanɛ"
-
-#: MK-variant
-msgid "Macedonia (FYROM)"
-msgstr "Masedoni (RYYYK)"
+msgid "Macedonia,Macedonia (FYROM)"
+msgstr "Masedwanɛ,Masedoni (RYYYK)"
 
 #: ML
 msgid "Mali"
@@ -914,12 +894,8 @@ msgid "Tokelau"
 msgstr "Tokelau"
 
 #: TL
-msgid "Timor-Leste"
-msgstr "Timorɛ ya Moniɛlɛ"
-
-#: TL-variant
-msgid "East Timor"
-msgstr "Timor ya Monyɛlɛ"
+msgid "Timor-Leste,East Timor"
+msgstr "Timorɛ ya Moniɛlɛ,Timor ya Monyɛlɛ"
 
 #: TM
 msgid "Turkmenistan"

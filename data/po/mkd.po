@@ -162,36 +162,24 @@ msgid "Cocos (Keeling) Islands"
 msgstr "Кокосови (Килиншки) Острови"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "Конго - Киншаса"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "Конго (Демократска Република Конго)"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "Конго - Киншаса,Конго (Демократска Република Конго)"
 
 #: CF
 msgid "Central African Republic"
 msgstr "Централноафриканска Република"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "Конго - Бразавил"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "Конго (Република)"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "Конго - Бразавил,Конго (Република)"
 
 #: CH
 msgid "Switzerland"
 msgstr "Швајцарија"
 
 #: CI
-msgid "Côte d’Ivoire"
-msgstr "Брегот на Слоновата Коска"
-
-#: CI-variant
-msgid "Ivory Coast"
-msgstr "Брег на Слоновата Коска"
+msgid "Côte d’Ivoire,Ivory Coast"
+msgstr "Брегот на Слоновата Коска,Брег на Слоновата Коска"
 
 #: CK
 msgid "Cook Islands"
@@ -242,12 +230,8 @@ msgid "Cyprus"
 msgstr "Кипар"
 
 #: CZ
-msgid "Czechia"
-msgstr "Чешка"
-
-#: CZ-variant
-msgid "Czech Republic"
-msgstr "Република Чешка"
+msgid "Czechia,Czech Republic"
+msgstr "Чешка,Република Чешка"
 
 #: DE
 msgid "Germany"
@@ -318,12 +302,8 @@ msgid "Fiji"
 msgstr "Фиџи"
 
 #: FK
-msgid "Falkland Islands"
-msgstr "Фолкландски Острови"
-
-#: FK-variant
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "Фолкландски Острови (Малвински Острови)"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
+msgstr "Фолкландски Острови,Фолкландски Острови (Малвински Острови)"
 
 #: FM
 msgid "Micronesia"
@@ -622,12 +602,8 @@ msgid "Marshall Islands"
 msgstr "Маршалски Острови"
 
 #: MK
-msgid "Macedonia"
-msgstr "Македонија"
-
-#: MK-variant
-msgid "Macedonia (FYROM)"
-msgstr "Република Македонија"
+msgid "Macedonia,Macedonia (FYROM)"
+msgstr "Македонија,Република Македонија"
 
 #: ML
 msgid "Mali"
@@ -946,12 +922,8 @@ msgid "Tokelau"
 msgstr "Токелау"
 
 #: TL
-msgid "Timor-Leste"
-msgstr "Источен Тимор (Тимор Лесте)"
-
-#: TL-variant
-msgid "East Timor"
-msgstr "Источен Тимор"
+msgid "Timor-Leste,East Timor"
+msgstr "Источен Тимор (Тимор Лесте),Источен Тимор"
 
 #: TM
 msgid "Turkmenistan"

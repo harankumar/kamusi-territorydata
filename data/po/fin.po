@@ -162,36 +162,24 @@ msgid "Cocos (Keeling) Islands"
 msgstr "Kookossaaret (Keelingsaaret)"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "Kongon demokraattinen tasavalta"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "Kongo-Kinshasa"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "Kongon demokraattinen tasavalta,Kongo-Kinshasa"
 
 #: CF
 msgid "Central African Republic"
 msgstr "Keski-Afrikan tasavalta"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "Kongon tasavalta"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "Kongo-Brazzaville"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "Kongon tasavalta,Kongo-Brazzaville"
 
 #: CH
 msgid "Switzerland"
 msgstr "Sveitsi"
 
 #: CI
-msgid "Côte d’Ivoire"
-msgstr "Norsunluurannikko"
-
-#: CI-variant
-msgid "Ivory Coast"
-msgstr "Côte d’Ivoire"
+msgid "Côte d’Ivoire,Ivory Coast"
+msgstr "Norsunluurannikko,Côte d’Ivoire"
 
 #: CK
 msgid "Cook Islands"
@@ -242,12 +230,8 @@ msgid "Cyprus"
 msgstr "Kypros"
 
 #: CZ
-msgid "Czechia"
-msgstr "Tšekinmaa"
-
-#: CZ-variant
-msgid "Czech Republic"
-msgstr "Tšekki"
+msgid "Czechia,Czech Republic"
+msgstr "Tšekinmaa,Tšekki"
 
 #: DE
 msgid "Germany"
@@ -318,12 +302,8 @@ msgid "Fiji"
 msgstr "Fidži"
 
 #: FK
-msgid "Falkland Islands"
-msgstr "Falklandinsaaret"
-
-#: FK-variant
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "Falklandinsaaret (Malvinassaaret)"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
+msgstr "Falklandinsaaret,Falklandinsaaret (Malvinassaaret)"
 
 #: FM
 msgid "Micronesia"
@@ -622,12 +602,8 @@ msgid "Marshall Islands"
 msgstr "Marshallinsaaret"
 
 #: MK
-msgid "Macedonia"
-msgstr "Makedonia"
-
-#: MK-variant
-msgid "Macedonia (FYROM)"
-msgstr "EJT Makedonia"
+msgid "Macedonia,Macedonia (FYROM)"
+msgstr "Makedonia,EJT Makedonia"
 
 #: ML
 msgid "Mali"
@@ -946,12 +922,8 @@ msgid "Tokelau"
 msgstr "Tokelau"
 
 #: TL
-msgid "Timor-Leste"
-msgstr "Itä-Timor"
-
-#: TL-variant
-msgid "East Timor"
-msgstr "Timor-Leste"
+msgid "Timor-Leste,East Timor"
+msgstr "Itä-Timor,Timor-Leste"
 
 #: TM
 msgid "Turkmenistan"

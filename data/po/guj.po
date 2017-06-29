@@ -162,36 +162,24 @@ msgid "Cocos (Keeling) Islands"
 msgstr "કોકોઝ (કીલીંગ) આઇલેન્ડ્સ"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "કોંગો - કિંશાસા"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "કોંગો (ડીઆરસી)"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "કોંગો - કિંશાસા,કોંગો (ડીઆરસી)"
 
 #: CF
 msgid "Central African Republic"
 msgstr "સેન્ટ્રલ આફ્રિકન રીપબ્લિક"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "કોંગો - બ્રાઝાવિલે"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "કોંગો (પ્રજાસત્તાક)"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "કોંગો - બ્રાઝાવિલે,કોંગો (પ્રજાસત્તાક)"
 
 #: CH
 msgid "Switzerland"
 msgstr "સ્વિટ્ઝર્લૅન્ડ"
 
 #: CI
-msgid "Côte d’Ivoire"
-msgstr "કોટ ડી આઇવરી"
-
-#: CI-variant
-msgid "Ivory Coast"
-msgstr "આઇવરી કોસ્ટ"
+msgid "Côte d’Ivoire,Ivory Coast"
+msgstr "કોટ ડી આઇવરી,આઇવરી કોસ્ટ"
 
 #: CK
 msgid "Cook Islands"
@@ -242,12 +230,8 @@ msgid "Cyprus"
 msgstr "સાયપ્રસ"
 
 #: CZ
-msgid "Czechia"
-msgstr "ચેકીયા"
-
-#: CZ-variant
-msgid "Czech Republic"
-msgstr "ચેક રીપબ્લિક"
+msgid "Czechia,Czech Republic"
+msgstr "ચેકીયા,ચેક રીપબ્લિક"
 
 #: DE
 msgid "Germany"
@@ -318,12 +302,8 @@ msgid "Fiji"
 msgstr "ફીજી"
 
 #: FK
-msgid "Falkland Islands"
-msgstr "ફૉકલેન્ડ ટાપુઓ"
-
-#: FK-variant
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "ફૉકલેન્ડ ટાપુઓ (ઇસ્લાસ માલવિનસ)"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
+msgstr "ફૉકલેન્ડ ટાપુઓ,ફૉકલેન્ડ ટાપુઓ (ઇસ્લાસ માલવિનસ)"
 
 #: FM
 msgid "Micronesia"
@@ -622,12 +602,8 @@ msgid "Marshall Islands"
 msgstr "માર્શલ આઇલેન્ડ્સ"
 
 #: MK
-msgid "Macedonia"
-msgstr "મેસેડોનિયા"
-
-#: MK-variant
-msgid "Macedonia (FYROM)"
-msgstr "મેસેડોનિયા (FYROM)"
+msgid "Macedonia,Macedonia (FYROM)"
+msgstr "મેસેડોનિયા,મેસેડોનિયા (FYROM)"
 
 #: ML
 msgid "Mali"
@@ -946,12 +922,8 @@ msgid "Tokelau"
 msgstr "ટોકેલાઉ"
 
 #: TL
-msgid "Timor-Leste"
-msgstr "તિમોર-લેસ્તે"
-
-#: TL-variant
-msgid "East Timor"
-msgstr "પૂર્વ તિમોર"
+msgid "Timor-Leste,East Timor"
+msgstr "તિમોર-લેસ્તે,પૂર્વ તિમોર"
 
 #: TM
 msgid "Turkmenistan"

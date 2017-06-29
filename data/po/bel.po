@@ -162,36 +162,24 @@ msgid "Cocos (Keeling) Islands"
 msgstr "Какосавыя (Кілінг) астравы"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "Конга (Кіншаса)"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "Конга (ДРК)"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "Конга (Кіншаса),Конга (ДРК)"
 
 #: CF
 msgid "Central African Republic"
 msgstr "Цэнтральнаафрыканская Рэспубліка"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "Конга - Бразавіль"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "Рэспубліка Конга"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "Конга - Бразавіль,Рэспубліка Конга"
 
 #: CH
 msgid "Switzerland"
 msgstr "Швейцарыя"
 
 #: CI
-msgid "Côte d’Ivoire"
-msgstr "Кот-д’Івуар"
-
-#: CI-variant
-msgid "Ivory Coast"
-msgstr "Бераг Слановай Косці"
+msgid "Côte d’Ivoire,Ivory Coast"
+msgstr "Кот-д’Івуар,Бераг Слановай Косці"
 
 #: CK
 msgid "Cook Islands"
@@ -242,7 +230,7 @@ msgid "Cyprus"
 msgstr "Кіпр"
 
 #: CZ
-msgid "Czechia"
+msgid "Czechia,Czech Republic"
 msgstr "Чэхія"
 
 #: DE
@@ -314,12 +302,8 @@ msgid "Fiji"
 msgstr "Фіджы"
 
 #: FK
-msgid "Falkland Islands"
-msgstr "Фалклендскія астравы"
-
-#: FK-variant
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "Фалклендскія (Мальвінскія) астравы"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
+msgstr "Фалклендскія астравы,Фалклендскія (Мальвінскія) астравы"
 
 #: FM
 msgid "Micronesia"
@@ -618,12 +602,8 @@ msgid "Marshall Islands"
 msgstr "Маршалавы Астравы"
 
 #: MK
-msgid "Macedonia"
-msgstr "Македонія"
-
-#: MK-variant
-msgid "Macedonia (FYROM)"
-msgstr "Македонія (БЮРМ)"
+msgid "Macedonia,Macedonia (FYROM)"
+msgstr "Македонія,Македонія (БЮРМ)"
 
 #: ML
 msgid "Mali"
@@ -942,12 +922,8 @@ msgid "Tokelau"
 msgstr "Такелау"
 
 #: TL
-msgid "Timor-Leste"
-msgstr "Тымор-Лешці"
-
-#: TL-variant
-msgid "East Timor"
-msgstr "Усходні Тымор"
+msgid "Timor-Leste,East Timor"
+msgstr "Тымор-Лешці,Усходні Тымор"
 
 #: TM
 msgid "Turkmenistan"

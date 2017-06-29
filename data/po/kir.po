@@ -162,36 +162,24 @@ msgid "Cocos (Keeling) Islands"
 msgstr "Кокос (Килиӊ) аралдары"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "Конго-Киншаса"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "Конго (КДР)"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "Конго-Киншаса,Конго (КДР)"
 
 #: CF
 msgid "Central African Republic"
 msgstr "Борбордук Африка Республикасы"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "Конго-Браззавил"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "Конго (Республикасы)"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "Конго-Браззавил,Конго (Республикасы)"
 
 #: CH
 msgid "Switzerland"
 msgstr "Швейцария"
 
 #: CI
-msgid "Côte d’Ivoire"
-msgstr "Кот-д’Ивуар"
-
-#: CI-variant
-msgid "Ivory Coast"
-msgstr "Кот-д’Ивуар (вариант)"
+msgid "Côte d’Ivoire,Ivory Coast"
+msgstr "Кот-д’Ивуар,Кот-д’Ивуар (вариант)"
 
 #: CK
 msgid "Cook Islands"
@@ -242,12 +230,8 @@ msgid "Cyprus"
 msgstr "Кипр"
 
 #: CZ
-msgid "Czechia"
-msgstr "Чехия"
-
-#: CZ-variant
-msgid "Czech Republic"
-msgstr "Чех Республикасы"
+msgid "Czechia,Czech Republic"
+msgstr "Чехия,Чех Республикасы"
 
 #: DE
 msgid "Germany"
@@ -318,12 +302,8 @@ msgid "Fiji"
 msgstr "Фиджи"
 
 #: FK
-msgid "Falkland Islands"
-msgstr "Фолклэнд аралдары"
-
-#: FK-variant
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "Фолклэнд (Малвина) аралдары"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
+msgstr "Фолклэнд аралдары,Фолклэнд (Малвина) аралдары"
 
 #: FM
 msgid "Micronesia"
@@ -622,12 +602,8 @@ msgid "Marshall Islands"
 msgstr "Маршалл аралдары"
 
 #: MK
-msgid "Macedonia"
-msgstr "Македония"
-
-#: MK-variant
-msgid "Macedonia (FYROM)"
-msgstr "Македония (Мур. Югосл.)"
+msgid "Macedonia,Macedonia (FYROM)"
+msgstr "Македония,Македония (Мур. Югосл.)"
 
 #: ML
 msgid "Mali"
@@ -946,12 +922,8 @@ msgid "Tokelau"
 msgstr "Токелау"
 
 #: TL
-msgid "Timor-Leste"
-msgstr "Тимор-Лесте"
-
-#: TL-variant
-msgid "East Timor"
-msgstr "Чыгыш Тимор"
+msgid "Timor-Leste,East Timor"
+msgstr "Тимор-Лесте,Чыгыш Тимор"
 
 #: TM
 msgid "Turkmenistan"

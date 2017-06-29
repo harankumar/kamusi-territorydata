@@ -162,36 +162,24 @@ msgid "Cocos (Keeling) Islands"
 msgstr "कोकोस (कीलिंग) द्वीपसमूह"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "कांगो - किंशासा"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "कांगो (डीआरसी)"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "कांगो - किंशासा,कांगो (डीआरसी)"
 
 #: CF
 msgid "Central African Republic"
 msgstr "मध्य अफ़्रीकी गणराज्य"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "कांगो – ब्राज़ाविल"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "कांगो (गणराज्य)"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "कांगो – ब्राज़ाविल,कांगो (गणराज्य)"
 
 #: CH
 msgid "Switzerland"
 msgstr "स्विट्ज़रलैंड"
 
 #: CI
-msgid "Côte d’Ivoire"
-msgstr "कोट डी आइवर"
-
-#: CI-variant
-msgid "Ivory Coast"
-msgstr "आइवरी कोस्ट"
+msgid "Côte d’Ivoire,Ivory Coast"
+msgstr "कोट डी आइवर,आइवरी कोस्ट"
 
 #: CK
 msgid "Cook Islands"
@@ -242,12 +230,8 @@ msgid "Cyprus"
 msgstr "साइप्रस"
 
 #: CZ
-msgid "Czechia"
-msgstr "चेकिया"
-
-#: CZ-variant
-msgid "Czech Republic"
-msgstr "चेक गणराज्य"
+msgid "Czechia,Czech Republic"
+msgstr "चेकिया,चेक गणराज्य"
 
 #: DE
 msgid "Germany"
@@ -318,12 +302,8 @@ msgid "Fiji"
 msgstr "फ़िजी"
 
 #: FK
-msgid "Falkland Islands"
-msgstr "फ़ॉकलैंड द्वीपसमूह"
-
-#: FK-variant
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "फ़ॉकलैंड द्वीपसमूह (इज़्लास माल्विनास)"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
+msgstr "फ़ॉकलैंड द्वीपसमूह,फ़ॉकलैंड द्वीपसमूह (इज़्लास माल्विनास)"
 
 #: FM
 msgid "Micronesia"
@@ -622,12 +602,8 @@ msgid "Marshall Islands"
 msgstr "मार्शल द्वीपसमूह"
 
 #: MK
-msgid "Macedonia"
-msgstr "मैसिडोनिया"
-
-#: MK-variant
-msgid "Macedonia (FYROM)"
-msgstr "मैसिडोनिया (FYROM)"
+msgid "Macedonia,Macedonia (FYROM)"
+msgstr "मैसिडोनिया,मैसिडोनिया (FYROM)"
 
 #: ML
 msgid "Mali"
@@ -946,12 +922,8 @@ msgid "Tokelau"
 msgstr "तोकेलाउ"
 
 #: TL
-msgid "Timor-Leste"
-msgstr "तिमोर-लेस्त"
-
-#: TL-variant
-msgid "East Timor"
-msgstr "पूर्वी तिमोर"
+msgid "Timor-Leste,East Timor"
+msgstr "तिमोर-लेस्त,पूर्वी तिमोर"
 
 #: TM
 msgid "Turkmenistan"

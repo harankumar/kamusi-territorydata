@@ -162,36 +162,24 @@ msgid "Cocos (Keeling) Islands"
 msgstr "కోకోస్ (కీలింగ్) దీవులు"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "కాంగో- కిన్షాసా"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "కాంగో (DRC)"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "కాంగో- కిన్షాసా,కాంగో (DRC)"
 
 #: CF
 msgid "Central African Republic"
 msgstr "సెంట్రల్ ఆఫ్రికన్ రిపబ్లిక్"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "కాంగో- బ్రాజావిల్లి"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "కాంగో (రిపబ్లిక్)"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "కాంగో- బ్రాజావిల్లి,కాంగో (రిపబ్లిక్)"
 
 #: CH
 msgid "Switzerland"
 msgstr "స్విట్జర్లాండ్"
 
 #: CI
-msgid "Côte d’Ivoire"
-msgstr "కోటెడ్ ఐవోయిర్"
-
-#: CI-variant
-msgid "Ivory Coast"
-msgstr "ఐవరీ కోస్ట్"
+msgid "Côte d’Ivoire,Ivory Coast"
+msgstr "కోటెడ్ ఐవోయిర్,ఐవరీ కోస్ట్"
 
 #: CK
 msgid "Cook Islands"
@@ -242,12 +230,8 @@ msgid "Cyprus"
 msgstr "సైప్రస్"
 
 #: CZ
-msgid "Czechia"
-msgstr "చెక్‌చియ"
-
-#: CZ-variant
-msgid "Czech Republic"
-msgstr "చెక్ రిపబ్లిక్"
+msgid "Czechia,Czech Republic"
+msgstr "చెక్‌చియ,చెక్ రిపబ్లిక్"
 
 #: DE
 msgid "Germany"
@@ -318,12 +302,8 @@ msgid "Fiji"
 msgstr "ఫిజీ"
 
 #: FK
-msgid "Falkland Islands"
-msgstr "ఫాక్‌ల్యాండ్ దీవులు"
-
-#: FK-variant
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "ఫాక్‌ల్యాండ్ దీవులు (ఇస్లాస్ మాల్వినాస్)"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
+msgstr "ఫాక్‌ల్యాండ్ దీవులు,ఫాక్‌ల్యాండ్ దీవులు (ఇస్లాస్ మాల్వినాస్)"
 
 #: FM
 msgid "Micronesia"
@@ -622,12 +602,8 @@ msgid "Marshall Islands"
 msgstr "మార్షల్ దీవులు"
 
 #: MK
-msgid "Macedonia"
-msgstr "మేసిడోనియా"
-
-#: MK-variant
-msgid "Macedonia (FYROM)"
-msgstr "మేసిడోనియా (FYROM)"
+msgid "Macedonia,Macedonia (FYROM)"
+msgstr "మేసిడోనియా,మేసిడోనియా (FYROM)"
 
 #: ML
 msgid "Mali"
@@ -946,12 +922,8 @@ msgid "Tokelau"
 msgstr "టోకేలావ్"
 
 #: TL
-msgid "Timor-Leste"
-msgstr "టిమోర్-లెస్టె"
-
-#: TL-variant
-msgid "East Timor"
-msgstr "తూర్పు తైమూర్"
+msgid "Timor-Leste,East Timor"
+msgstr "టిమోర్-లెస్టె,తూర్పు తైమూర్"
 
 #: TM
 msgid "Turkmenistan"

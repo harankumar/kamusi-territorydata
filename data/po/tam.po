@@ -162,36 +162,24 @@ msgid "Cocos (Keeling) Islands"
 msgstr "கோகோஸ் (கீலிங்) தீவுகள்"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "காங்கோ - கின்ஷாசா"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "காங்கோ (டிஆர்சி)"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "காங்கோ - கின்ஷாசா,காங்கோ (டிஆர்சி)"
 
 #: CF
 msgid "Central African Republic"
 msgstr "மத்திய ஆப்ரிக்கக் குடியரசு"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "காங்கோ - ப்ராஸாவில்லே"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "காங்கோ (குடியரசு)"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "காங்கோ - ப்ராஸாவில்லே,காங்கோ (குடியரசு)"
 
 #: CH
 msgid "Switzerland"
 msgstr "ஸ்விட்சர்லாந்து"
 
 #: CI
-msgid "Côte d’Ivoire"
-msgstr "கோட் தி’வாயர்"
-
-#: CI-variant
-msgid "Ivory Coast"
-msgstr "ஐவரி கோஸ்ட்"
+msgid "Côte d’Ivoire,Ivory Coast"
+msgstr "கோட் தி’வாயர்,ஐவரி கோஸ்ட்"
 
 #: CK
 msgid "Cook Islands"
@@ -242,12 +230,8 @@ msgid "Cyprus"
 msgstr "சைப்ரஸ்"
 
 #: CZ
-msgid "Czechia"
-msgstr "செசியா"
-
-#: CZ-variant
-msgid "Czech Republic"
-msgstr "செக் குடியரசு"
+msgid "Czechia,Czech Republic"
+msgstr "செசியா,செக் குடியரசு"
 
 #: DE
 msgid "Germany"
@@ -318,12 +302,8 @@ msgid "Fiji"
 msgstr "ஃபிஜி"
 
 #: FK
-msgid "Falkland Islands"
-msgstr "ஃபாக்லாந்து தீவுகள்"
-
-#: FK-variant
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "ஃபாக்லாந்து தீவுகள் (இஸ்லாஸ் மால்வினஸ்)"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
+msgstr "ஃபாக்லாந்து தீவுகள்,ஃபாக்லாந்து தீவுகள் (இஸ்லாஸ் மால்வினஸ்)"
 
 #: FM
 msgid "Micronesia"
@@ -622,12 +602,8 @@ msgid "Marshall Islands"
 msgstr "மார்ஷல் தீவுகள்"
 
 #: MK
-msgid "Macedonia"
-msgstr "மாசிடோனியா"
-
-#: MK-variant
-msgid "Macedonia (FYROM)"
-msgstr "மாசிடோனியா (ஃபைரோம்)"
+msgid "Macedonia,Macedonia (FYROM)"
+msgstr "மாசிடோனியா,மாசிடோனியா (ஃபைரோம்)"
 
 #: ML
 msgid "Mali"
@@ -946,12 +922,8 @@ msgid "Tokelau"
 msgstr "டோகேலோ"
 
 #: TL
-msgid "Timor-Leste"
-msgstr "தைமூர்-லெஸ்தே"
-
-#: TL-variant
-msgid "East Timor"
-msgstr "கிழக்கு தைமூர்"
+msgid "Timor-Leste,East Timor"
+msgstr "தைமூர்-லெஸ்தே,கிழக்கு தைமூர்"
 
 #: TM
 msgid "Turkmenistan"

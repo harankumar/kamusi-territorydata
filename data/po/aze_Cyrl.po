@@ -121,6 +121,10 @@ msgstr "Брунеј"
 msgid "Bolivia"
 msgstr "Боливија"
 
+#: BQ
+msgid "Caribbean Netherlands"
+msgstr "Karib Niderlandı"
+
 #: BR
 msgid "Brazil"
 msgstr "Бразилија"
@@ -158,31 +162,23 @@ msgid "Cocos (Keeling) Islands"
 msgstr "Кокос (Килинг) адалары"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "Конго-Киншаса"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "Конго (КДР)"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "Конго-Киншаса,Конго (КДР)"
 
 #: CF
 msgid "Central African Republic"
 msgstr "Мәркәзи Африка Республикасы"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "Конго-Браззавил"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "Конго (Республика)"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "Конго-Браззавил,Конго (Республика)"
 
 #: CH
 msgid "Switzerland"
 msgstr "Исвечрә"
 
 #: CI
-msgid "Côte d’Ivoire"
+msgid "Côte d’Ivoire,Ivory Coast"
 msgstr "Kотд’ивуар"
 
 #: CK
@@ -234,12 +230,8 @@ msgid "Cyprus"
 msgstr "Кипр"
 
 #: CZ
-msgid "Czechia"
-msgstr "Чехија"
-
-#: CZ-variant
-msgid "Czech Republic"
-msgstr "Чех Республикасы"
+msgid "Czechia,Czech Republic"
+msgstr "Чехија,Чех Республикасы"
 
 #: DE
 msgid "Germany"
@@ -285,6 +277,10 @@ msgstr "Естонија"
 msgid "Egypt"
 msgstr "Мисир"
 
+#: EH
+msgid "Western Sahara"
+msgstr "Qərbi Saxara"
+
 #: ER
 msgid "Eritrea"
 msgstr "Еритреја"
@@ -306,12 +302,8 @@ msgid "Fiji"
 msgstr "Фиҹи"
 
 #: FK
-msgid "Falkland Islands"
-msgstr "Фолкленд адалары"
-
-#: FK-variant
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "Фолкленд адалары (Малвин адалары)"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
+msgstr "Фолкленд адалары,Фолкленд адалары (Малвин адалары)"
 
 #: FM
 msgid "Micronesia"
@@ -609,8 +601,8 @@ msgstr "Мадагаскар"
 msgid "Marshall Islands"
 msgstr "Маршал адалары"
 
-#: MK-variant
-msgid "Macedonia (FYROM)"
+#: MK
+msgid "Macedonia,Macedonia (FYROM)"
 msgstr "Македонија (КЈРМ)"
 
 #: ML
@@ -769,6 +761,14 @@ msgstr "Питкерн адалары"
 msgid "Puerto Rico"
 msgstr "Пуерто Рико"
 
+#: PS
+msgid "Palestinian Territories"
+msgstr "Fələstin Əraziləri"
+
+#: PS-short
+msgid "Palestine"
+msgstr "Fələstin"
+
 #: PT
 msgid "Portugal"
 msgstr "Португалија"
@@ -922,7 +922,7 @@ msgid "Tokelau"
 msgstr "Токелау"
 
 #: TL
-msgid "Timor-Leste"
+msgid "Timor-Leste,East Timor"
 msgstr "Шәрги Тимор"
 
 #: TM

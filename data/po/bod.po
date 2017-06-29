@@ -138,7 +138,7 @@ msgid "Switzerland"
 msgstr "ཧྲུད་ཧྲི།"
 
 #: CI
-msgid "Côte d’Ivoire"
+msgid "Côte d’Ivoire,Ivory Coast"
 msgstr "ཀོ་ཊེ་ཌི། ཨི་ཝོ་རེ།"
 
 #: CK
@@ -174,7 +174,7 @@ msgid "Cyprus"
 msgstr "སཱཡེ་པ་རས྄།"
 
 #: CZ
-msgid "Czechia"
+msgid "Czechia,Czech Republic"
 msgstr "ཅཻག་སྤྱི་མཐུན་རྒྱལ་ཁབ།"
 
 #: DE
@@ -234,7 +234,7 @@ msgid "Fiji"
 msgstr "ཕི་ཇི།"
 
 #: FK
-msgid "Falkland Islands"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
 msgstr "ཕལྐ་ལནྜ་གླིང་ཕྲན།"
 
 #: FR

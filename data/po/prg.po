@@ -90,7 +90,7 @@ msgid "Cuba"
 msgstr "Kūba"
 
 #: CZ
-msgid "Czechia"
+msgid "Czechia,Czech Republic"
 msgstr "Čekkija"
 
 #: DE
@@ -242,7 +242,7 @@ msgid "Montenegro"
 msgstr "Mōntenegran"
 
 #: MK
-msgid "Macedonia"
+msgid "Macedonia,Macedonia (FYROM)"
 msgstr "Macedōnija"
 
 #: MT

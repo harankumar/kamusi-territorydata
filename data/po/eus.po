@@ -162,31 +162,23 @@ msgid "Cocos (Keeling) Islands"
 msgstr "Cocos uharteak"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "Kongoko Errepublika Demokratikoa"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "Kongo (KED)"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "Kongoko Errepublika Demokratikoa,Kongo (KED)"
 
 #: CF
 msgid "Central African Republic"
 msgstr "Afrika Erdiko Errepublika"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "Kongo (Brazzaville)"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "Kongo (errepublika)"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "Kongo (Brazzaville),Kongo (errepublika)"
 
 #: CH
 msgid "Switzerland"
 msgstr "Suitza"
 
 #: CI
-msgid "Côte d’Ivoire"
+msgid "Côte d’Ivoire,Ivory Coast"
 msgstr "Boli Kosta"
 
 #: CK
@@ -238,12 +230,8 @@ msgid "Cyprus"
 msgstr "Zipre"
 
 #: CZ
-msgid "Czechia"
-msgstr "Txekia"
-
-#: CZ-variant
-msgid "Czech Republic"
-msgstr "Txekiar Errepublika"
+msgid "Czechia,Czech Republic"
+msgstr "Txekia,Txekiar Errepublika"
 
 #: DE
 msgid "Germany"
@@ -314,12 +302,8 @@ msgid "Fiji"
 msgstr "Fiji"
 
 #: FK
-msgid "Falkland Islands"
-msgstr "Malvinak"
-
-#: FK-variant
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "Falkland uharteak (Malvina uharteak)"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
+msgstr "Malvinak,Falkland uharteak (Malvina uharteak)"
 
 #: FM
 msgid "Micronesia"
@@ -618,12 +602,8 @@ msgid "Marshall Islands"
 msgstr "Marshall uharteak"
 
 #: MK
-msgid "Macedonia"
-msgstr "Mazedonia"
-
-#: MK-variant
-msgid "Macedonia (FYROM)"
-msgstr "Mazedonia (Mazedoniako Yugoslaviar Errepublika ohia)"
+msgid "Macedonia,Macedonia (FYROM)"
+msgstr "Mazedonia,Mazedonia (Mazedoniako Yugoslaviar Errepublika ohia)"
 
 #: ML
 msgid "Mali"
@@ -942,12 +922,8 @@ msgid "Tokelau"
 msgstr "Tokelau"
 
 #: TL
-msgid "Timor-Leste"
-msgstr "Ekialdeko Timor"
-
-#: TL-variant
-msgid "East Timor"
-msgstr "Timor ekialdea"
+msgid "Timor-Leste,East Timor"
+msgstr "Ekialdeko Timor,Timor ekialdea"
 
 #: TM
 msgid "Turkmenistan"

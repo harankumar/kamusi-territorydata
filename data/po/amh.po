@@ -162,36 +162,24 @@ msgid "Cocos (Keeling) Islands"
 msgstr "ኮኮስ(ኬሊንግ) ደሴቶች"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "ኮንጎ-ኪንሻሳ"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "ኮንጎ (የዲሞክራቲክ ሪፐብሊክ ኮንጎ)"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "ኮንጎ-ኪንሻሳ,ኮንጎ (የዲሞክራቲክ ሪፐብሊክ ኮንጎ)"
 
 #: CF
 msgid "Central African Republic"
 msgstr "የመካከለኛው አፍሪካ ሪፐብሊክ"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "ኮንጎ ብራዛቪል"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "ኮንጎ (ሪፐብሊክ)"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "ኮንጎ ብራዛቪል,ኮንጎ (ሪፐብሊክ)"
 
 #: CH
 msgid "Switzerland"
 msgstr "ስዊዘርላንድ"
 
 #: CI
-msgid "Côte d’Ivoire"
-msgstr "ኮት ዲቯር"
-
-#: CI-variant
-msgid "Ivory Coast"
-msgstr "አይቮሪኮስት"
+msgid "Côte d’Ivoire,Ivory Coast"
+msgstr "ኮት ዲቯር,አይቮሪኮስት"
 
 #: CK
 msgid "Cook Islands"
@@ -242,12 +230,8 @@ msgid "Cyprus"
 msgstr "ሳይፕረስ"
 
 #: CZ
-msgid "Czechia"
-msgstr "ቼቺያ"
-
-#: CZ-variant
-msgid "Czech Republic"
-msgstr "ቼክ ሪፑብሊክ"
+msgid "Czechia,Czech Republic"
+msgstr "ቼቺያ,ቼክ ሪፑብሊክ"
 
 #: DE
 msgid "Germany"
@@ -318,12 +302,8 @@ msgid "Fiji"
 msgstr "ፊጂ"
 
 #: FK
-msgid "Falkland Islands"
-msgstr "የፎክላንድ ደሴቶች"
-
-#: FK-variant
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "ፎክላንድ ደሴቶች (ኢስላስ ማልቪናስ)"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
+msgstr "የፎክላንድ ደሴቶች,ፎክላንድ ደሴቶች (ኢስላስ ማልቪናስ)"
 
 #: FM
 msgid "Micronesia"
@@ -622,12 +602,8 @@ msgid "Marshall Islands"
 msgstr "ማርሻል አይላንድ"
 
 #: MK
-msgid "Macedonia"
-msgstr "መቄዶንያ"
-
-#: MK-variant
-msgid "Macedonia (FYROM)"
-msgstr "መቄዶንያ (የቀድሞ የዩጎስላቭ መቄዶንያ ሪፐብሊክ)"
+msgid "Macedonia,Macedonia (FYROM)"
+msgstr "መቄዶንያ,መቄዶንያ (የቀድሞ የዩጎስላቭ መቄዶንያ ሪፐብሊክ)"
 
 #: ML
 msgid "Mali"
@@ -946,12 +922,8 @@ msgid "Tokelau"
 msgstr "ቶክላው"
 
 #: TL
-msgid "Timor-Leste"
-msgstr "ምስራቅ ሌስት"
-
-#: TL-variant
-msgid "East Timor"
-msgstr "ምስራቅ ቲሞር"
+msgid "Timor-Leste,East Timor"
+msgstr "ምስራቅ ሌስት,ምስራቅ ቲሞር"
 
 #: TM
 msgid "Turkmenistan"

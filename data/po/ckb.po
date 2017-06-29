@@ -130,31 +130,23 @@ msgid "Canada"
 msgstr "کانەدا"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "کۆنگۆ کینشاسا"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "کۆماری دیموکراتیکی کۆنگۆ"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "کۆنگۆ کینشاسا,کۆماری دیموکراتیکی کۆنگۆ"
 
 #: CF
 msgid "Central African Republic"
 msgstr "کۆماری ئەفریقای ناوەڕاست"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "کۆنگۆ برازاڤیل"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "کۆماری کۆنگۆ"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "کۆنگۆ برازاڤیل,کۆماری کۆنگۆ"
 
 #: CH
 msgid "Switzerland"
 msgstr "سویسرا"
 
 #: CI
-msgid "Côte d’Ivoire"
+msgid "Côte d’Ivoire,Ivory Coast"
 msgstr "کۆتدیڤوار"
 
 #: CL
@@ -190,7 +182,7 @@ msgid "Cyprus"
 msgstr "قیبرس"
 
 #: CZ
-msgid "Czechia"
+msgid "Czechia,Czech Republic"
 msgstr "کۆماری چیک"
 
 #: DE
@@ -693,8 +685,8 @@ msgstr "تایلەند"
 msgid "Tajikistan"
 msgstr "تاجیکستان"
 
-#: TL-variant
-msgid "East Timor"
+#: TL
+msgid "Timor-Leste,East Timor"
 msgstr "تیمۆری ڕۆژھەڵات"
 
 #: TM

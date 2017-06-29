@@ -38,11 +38,11 @@ msgid "Canada"
 msgstr "Kanadâ"
 
 #: CD
-msgid "Congo - Kinshasa"
+msgid "Congo - Kinshasa,Congo (DRC)"
 msgstr "Kɔ́ŋgɔ-Kinshása"
 
 #: CG
-msgid "Congo - Brazzaville"
+msgid "Congo - Brazzaville,Congo (Republic)"
 msgstr "Kɔ́ŋgɔ-Mbɛlazavîl"
 
 #: CH
@@ -50,7 +50,7 @@ msgid "Switzerland"
 msgstr "Sẅísɛ"
 
 #: CI
-msgid "Côte d’Ivoire"
+msgid "Côte d’Ivoire,Ivory Coast"
 msgstr "Kɔ́t Ndivwâ"
 
 #: CL

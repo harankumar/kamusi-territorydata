@@ -162,31 +162,23 @@ msgid "Cocos (Keeling) Islands"
 msgstr "Νήσοι Κόκος (Κίλινγκ)"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "Κονγκό - Κινσάσα"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "Κονγκό"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "Κονγκό - Κινσάσα,Κονγκό"
 
 #: CF
 msgid "Central African Republic"
 msgstr "Κεντροαφρικανική Δημοκρατία"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "Κονγκό - Μπραζαβίλ"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "Κονγκό (Δημοκρατία)"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "Κονγκό - Μπραζαβίλ,Κονγκό (Δημοκρατία)"
 
 #: CH
 msgid "Switzerland"
 msgstr "Ελβετία"
 
 #: CI
-msgid "Côte d’Ivoire"
+msgid "Côte d’Ivoire,Ivory Coast"
 msgstr "Ακτή Ελεφαντοστού"
 
 #: CK
@@ -238,12 +230,8 @@ msgid "Cyprus"
 msgstr "Κύπρος"
 
 #: CZ
-msgid "Czechia"
-msgstr "Τσεχία"
-
-#: CZ-variant
-msgid "Czech Republic"
-msgstr "Τσεχική Δημοκρατία"
+msgid "Czechia,Czech Republic"
+msgstr "Τσεχία,Τσεχική Δημοκρατία"
 
 #: DE
 msgid "Germany"
@@ -314,12 +302,8 @@ msgid "Fiji"
 msgstr "Φίτζι"
 
 #: FK
-msgid "Falkland Islands"
-msgstr "Νήσοι Φόκλαντ"
-
-#: FK-variant
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "Νήσοι Φόκλαντ (Νήσοι Μαλβίνας)"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
+msgstr "Νήσοι Φόκλαντ,Νήσοι Φόκλαντ (Νήσοι Μαλβίνας)"
 
 #: FM
 msgid "Micronesia"
@@ -618,12 +602,8 @@ msgid "Marshall Islands"
 msgstr "Νήσοι Μάρσαλ"
 
 #: MK
-msgid "Macedonia"
-msgstr "Πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας"
-
-#: MK-variant
-msgid "Macedonia (FYROM)"
-msgstr "Πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας (ΠΓΔΜ)"
+msgid "Macedonia,Macedonia (FYROM)"
+msgstr "Πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας,Πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας (ΠΓΔΜ)"
 
 #: ML
 msgid "Mali"
@@ -942,12 +922,8 @@ msgid "Tokelau"
 msgstr "Τοκελάου"
 
 #: TL
-msgid "Timor-Leste"
-msgstr "Τιμόρ-Λέστε"
-
-#: TL-variant
-msgid "East Timor"
-msgstr "Ανατολικό Τιμόρ"
+msgid "Timor-Leste,East Timor"
+msgstr "Τιμόρ-Λέστε,Ανατολικό Τιμόρ"
 
 #: TM
 msgid "Turkmenistan"

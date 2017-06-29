@@ -162,36 +162,24 @@ msgid "Cocos (Keeling) Islands"
 msgstr "Kokos (Kiling) orollari"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "Kongo – Kinshasa"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "Kongo (KDR)"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "Kongo – Kinshasa,Kongo (KDR)"
 
 #: CF
 msgid "Central African Republic"
 msgstr "Markaziy Afrika Respublikasi"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "Kongo – Brazzavil"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "Kongo (Respublika)"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "Kongo – Brazzavil,Kongo (Respublika)"
 
 #: CH
 msgid "Switzerland"
 msgstr "Shveytsariya"
 
 #: CI
-msgid "Côte d’Ivoire"
-msgstr "Kot-d’Ivuar"
-
-#: CI-variant
-msgid "Ivory Coast"
-msgstr "Fil suyagi qirg‘og‘i"
+msgid "Côte d’Ivoire,Ivory Coast"
+msgstr "Kot-d’Ivuar,Fil suyagi qirg‘og‘i"
 
 #: CK
 msgid "Cook Islands"
@@ -242,12 +230,8 @@ msgid "Cyprus"
 msgstr "Kipr"
 
 #: CZ
-msgid "Czechia"
-msgstr "Chexiya"
-
-#: CZ-variant
-msgid "Czech Republic"
-msgstr "Chexiya Respublikasi"
+msgid "Czechia,Czech Republic"
+msgstr "Chexiya,Chexiya Respublikasi"
 
 #: DE
 msgid "Germany"
@@ -318,12 +302,8 @@ msgid "Fiji"
 msgstr "Fiji"
 
 #: FK
-msgid "Falkland Islands"
-msgstr "Folklend orollari"
-
-#: FK-variant
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "Folklend (Malvin) orollari"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
+msgstr "Folklend orollari,Folklend (Malvin) orollari"
 
 #: FM
 msgid "Micronesia"
@@ -622,12 +602,8 @@ msgid "Marshall Islands"
 msgstr "Marshall orollari"
 
 #: MK
-msgid "Macedonia"
-msgstr "Makedoniya"
-
-#: MK-variant
-msgid "Macedonia (FYROM)"
-msgstr "Makedoniya (SYRM)"
+msgid "Macedonia,Macedonia (FYROM)"
+msgstr "Makedoniya,Makedoniya (SYRM)"
 
 #: ML
 msgid "Mali"
@@ -946,12 +922,8 @@ msgid "Tokelau"
 msgstr "Tokelau"
 
 #: TL
-msgid "Timor-Leste"
-msgstr "Timor-Leste"
-
-#: TL-variant
-msgid "East Timor"
-msgstr "Sharqiy Timor"
+msgid "Timor-Leste,East Timor"
+msgstr "Timor-Leste,Sharqiy Timor"
 
 #: TM
 msgid "Turkmenistan"

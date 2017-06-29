@@ -162,31 +162,23 @@ msgid "Cocos (Keeling) Islands"
 msgstr "جزر كوكوس (كيلينغ)"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "الكونغو - كينشاسا"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "جمهورية الكونغو الديمقراطية"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "الكونغو - كينشاسا,جمهورية الكونغو الديمقراطية"
 
 #: CF
 msgid "Central African Republic"
 msgstr "جمهورية أفريقيا الوسطى"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "الكونغو - برازافيل"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "جمهورية الكونغو"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "الكونغو - برازافيل,جمهورية الكونغو"
 
 #: CH
 msgid "Switzerland"
 msgstr "سويسرا"
 
 #: CI
-msgid "Côte d’Ivoire"
+msgid "Côte d’Ivoire,Ivory Coast"
 msgstr "ساحل العاج"
 
 #: CK
@@ -238,12 +230,8 @@ msgid "Cyprus"
 msgstr "قبرص"
 
 #: CZ
-msgid "Czechia"
-msgstr "التشيك"
-
-#: CZ-variant
-msgid "Czech Republic"
-msgstr "جمهورية التشيك"
+msgid "Czechia,Czech Republic"
+msgstr "التشيك,جمهورية التشيك"
 
 #: DE
 msgid "Germany"
@@ -314,12 +302,8 @@ msgid "Fiji"
 msgstr "فيجي"
 
 #: FK
-msgid "Falkland Islands"
-msgstr "جزر فوكلاند"
-
-#: FK-variant
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "جزر فوكلاند - جزر مالفيناس"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
+msgstr "جزر فوكلاند,جزر فوكلاند - جزر مالفيناس"
 
 #: FM
 msgid "Micronesia"
@@ -618,12 +602,8 @@ msgid "Marshall Islands"
 msgstr "جزر مارشال"
 
 #: MK
-msgid "Macedonia"
-msgstr "مقدونيا"
-
-#: MK-variant
-msgid "Macedonia (FYROM)"
-msgstr "مقدونيا- جمهورية مقدونيا اليوغسلافية السابقة"
+msgid "Macedonia,Macedonia (FYROM)"
+msgstr "مقدونيا,مقدونيا- جمهورية مقدونيا اليوغسلافية السابقة"
 
 #: ML
 msgid "Mali"
@@ -942,12 +922,8 @@ msgid "Tokelau"
 msgstr "توكيلو"
 
 #: TL
-msgid "Timor-Leste"
-msgstr "تيمور- ليشتي"
-
-#: TL-variant
-msgid "East Timor"
-msgstr "تيمور الشرقية"
+msgid "Timor-Leste,East Timor"
+msgstr "تيمور- ليشتي,تيمور الشرقية"
 
 #: TM
 msgid "Turkmenistan"

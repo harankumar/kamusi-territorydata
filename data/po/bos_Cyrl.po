@@ -121,6 +121,10 @@ msgstr "Брунеј"
 msgid "Bolivia"
 msgstr "Боливија"
 
+#: BQ
+msgid "Caribbean Netherlands"
+msgstr "Karipska Holandija"
+
 #: BR
 msgid "Brazil"
 msgstr "Бразил"
@@ -158,31 +162,23 @@ msgid "Cocos (Keeling) Islands"
 msgstr "Кокос (Келинг) Острва"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "Конго - Киншаса"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "Конго (ДРК)"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "Конго - Киншаса,Конго (ДРК)"
 
 #: CF
 msgid "Central African Republic"
 msgstr "Централно Афричка Република"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "Конго - Бразавил"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "Конго (Република)"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "Конго - Бразавил,Конго (Република)"
 
 #: CH
 msgid "Switzerland"
 msgstr "Швајцарска"
 
 #: CI
-msgid "Côte d’Ivoire"
+msgid "Côte d’Ivoire,Ivory Coast"
 msgstr "Обала Слоноваче"
 
 #: CK
@@ -221,6 +217,10 @@ msgstr "Куба"
 msgid "Cape Verde"
 msgstr "Капе Верде"
 
+#: CW
+msgid "Curaçao"
+msgstr "Kurasao"
+
 #: CX
 msgid "Christmas Island"
 msgstr "Божићна острва"
@@ -230,7 +230,7 @@ msgid "Cyprus"
 msgstr "Кипар"
 
 #: CZ
-msgid "Czechia"
+msgid "Czechia,Czech Republic"
 msgstr "Чешка"
 
 #: DE
@@ -302,12 +302,8 @@ msgid "Fiji"
 msgstr "Фиџи"
 
 #: FK
-msgid "Falkland Islands"
-msgstr "Фокландска острва"
-
-#: FK-variant
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "Фокландска (Малвинска) острва"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
+msgstr "Фокландска острва,Фокландска (Малвинска) острва"
 
 #: FM
 msgid "Micronesia"
@@ -328,6 +324,10 @@ msgstr "Габон"
 #: GB
 msgid "United Kingdom"
 msgstr "Велика Британија"
+
+#: GB-short
+msgid "UK"
+msgstr "UK"
 
 #: GD
 msgid "Grenada"
@@ -602,7 +602,7 @@ msgid "Marshall Islands"
 msgstr "Маршалска Острва"
 
 #: MK
-msgid "Macedonia"
+msgid "Macedonia,Macedonia (FYROM)"
 msgstr "Македонија"
 
 #: ML
@@ -765,6 +765,10 @@ msgstr "Порто Рико"
 msgid "Palestinian Territories"
 msgstr "Палестинске територије"
 
+#: PS-short
+msgid "Palestine"
+msgstr "Palestina"
+
 #: PT
 msgid "Portugal"
 msgstr "Португалија"
@@ -873,6 +877,10 @@ msgstr "Сао Томе и Принципе"
 msgid "El Salvador"
 msgstr "Салвадор"
 
+#: SX
+msgid "Sint Maarten"
+msgstr "Sint Marten"
+
 #: SY
 msgid "Syria"
 msgstr "Сирија"
@@ -914,7 +922,7 @@ msgid "Tokelau"
 msgstr "Токелау"
 
 #: TL
-msgid "Timor-Leste"
+msgid "Timor-Leste,East Timor"
 msgstr "Источни Тимор"
 
 #: TM
@@ -965,6 +973,10 @@ msgstr "Мања удаљена острва САД"
 msgid "United States"
 msgstr "Сједињене Америчке Државе"
 
+#: US-short
+msgid "undefined"
+msgstr "SAD"
+
 #: UY
 msgid "Uruguay"
 msgstr "Уругвај"
@@ -1008,6 +1020,10 @@ msgstr "Валис и Футуна Острва"
 #: WS
 msgid "Samoa"
 msgstr "Самоа"
+
+#: XK
+msgid "Kosovo"
+msgstr "Kosovo"
 
 #: YE
 msgid "Yemen"

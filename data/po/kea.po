@@ -162,36 +162,24 @@ msgid "Cocos (Keeling) Islands"
 msgstr "Ilhas Kokus (Keeling)"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "Kongu - Kinxasa"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "Repúblika Dimokrátika di Kongu"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "Kongu - Kinxasa,Repúblika Dimokrátika di Kongu"
 
 #: CF
 msgid "Central African Republic"
 msgstr "Republika Sentru-Afrikanu"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "Kongu - Brazavili"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "Repúblika di Kongu"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "Kongu - Brazavili,Repúblika di Kongu"
 
 #: CH
 msgid "Switzerland"
 msgstr "Suisa"
 
 #: CI
-msgid "Côte d’Ivoire"
-msgstr "Kosta di Marfin"
-
-#: CI-variant
-msgid "Ivory Coast"
-msgstr "Kosta di Marfin (Côte d’Ivoire)"
+msgid "Côte d’Ivoire,Ivory Coast"
+msgstr "Kosta di Marfin,Kosta di Marfin (Côte d’Ivoire)"
 
 #: CK
 msgid "Cook Islands"
@@ -242,12 +230,8 @@ msgid "Cyprus"
 msgstr "Xipri"
 
 #: CZ
-msgid "Czechia"
-msgstr "Txékia"
-
-#: CZ-variant
-msgid "Czech Republic"
-msgstr "Repúblika Txeka"
+msgid "Czechia,Czech Republic"
+msgstr "Txékia,Repúblika Txeka"
 
 #: DE
 msgid "Germany"
@@ -318,12 +302,8 @@ msgid "Fiji"
 msgstr "Fidji"
 
 #: FK
-msgid "Falkland Islands"
-msgstr "Ilhas Malvinas"
-
-#: FK-variant
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "Ilhas Falkland (Ilhas Malvinas)"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
+msgstr "Ilhas Malvinas,Ilhas Falkland (Ilhas Malvinas)"
 
 #: FM
 msgid "Micronesia"
@@ -622,12 +602,8 @@ msgid "Marshall Islands"
 msgstr "Ilhas Marxal"
 
 #: MK
-msgid "Macedonia"
-msgstr "Masidónia"
-
-#: MK-variant
-msgid "Macedonia (FYROM)"
-msgstr "Masidónia (FYROM)"
+msgid "Macedonia,Macedonia (FYROM)"
+msgstr "Masidónia,Masidónia (FYROM)"
 
 #: ML
 msgid "Mali"
@@ -942,7 +918,7 @@ msgid "Tokelau"
 msgstr "Tokelau"
 
 #: TL
-msgid "Timor-Leste"
+msgid "Timor-Leste,East Timor"
 msgstr "Timor Lesti"
 
 #: TM

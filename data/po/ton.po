@@ -162,31 +162,23 @@ msgid "Cocos (Keeling) Islands"
 msgstr "ʻOtumotu Koko"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "Kongo - Kinisasa"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "Kongo (LTK)"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "Kongo - Kinisasa,Kongo (LTK)"
 
 #: CF
 msgid "Central African Republic"
 msgstr "Lipapilika ʻAfilika Lotoloto"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "Kongo - Palasavila"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "Kongo (Lipapilika)"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "Kongo - Palasavila,Kongo (Lipapilika)"
 
 #: CH
 msgid "Switzerland"
 msgstr "Suisilani"
 
 #: CI
-msgid "Côte d’Ivoire"
+msgid "Côte d’Ivoire,Ivory Coast"
 msgstr "Matafonua ʻAivolī"
 
 #: CK
@@ -238,12 +230,8 @@ msgid "Cyprus"
 msgstr "Saipalesi"
 
 #: CZ
-msgid "Czechia"
-msgstr "Sēkia"
-
-#: CZ-variant
-msgid "Czech Republic"
-msgstr "Lipapilika Seki"
+msgid "Czechia,Czech Republic"
+msgstr "Sēkia,Lipapilika Seki"
 
 #: DE
 msgid "Germany"
@@ -314,7 +302,7 @@ msgid "Fiji"
 msgstr "Fisi"
 
 #: FK
-msgid "Falkland Islands"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
 msgstr "ʻOtumotu Fokulani"
 
 #: FM
@@ -614,12 +602,8 @@ msgid "Marshall Islands"
 msgstr "ʻOtumotu Māsolo"
 
 #: MK
-msgid "Macedonia"
-msgstr "Masetōnia"
-
-#: MK-variant
-msgid "Macedonia (FYROM)"
-msgstr "Masetōnia (FYROM)"
+msgid "Macedonia,Macedonia (FYROM)"
+msgstr "Masetōnia,Masetōnia (FYROM)"
 
 #: ML
 msgid "Mali"
@@ -938,7 +922,7 @@ msgid "Tokelau"
 msgstr "Tokelau"
 
 #: TL
-msgid "Timor-Leste"
+msgid "Timor-Leste,East Timor"
 msgstr "Timoa hahake"
 
 #: TM

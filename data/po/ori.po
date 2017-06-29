@@ -154,7 +154,7 @@ msgid "Cocos (Keeling) Islands"
 msgstr "କୋକୋସ୍ ଆଇସଲ୍ୟାଣ୍ଡ"
 
 #: CD
-msgid "Congo - Kinshasa"
+msgid "Congo - Kinshasa,Congo (DRC)"
 msgstr "କଙ୍ଗୋ-କିନସାସା"
 
 #: CF
@@ -162,7 +162,7 @@ msgid "Central African Republic"
 msgstr "ମଧ୍ୟ ଆଫ୍ରିକୀୟ ଗଣତନ୍ତ୍ର"
 
 #: CG
-msgid "Congo - Brazzaville"
+msgid "Congo - Brazzaville,Congo (Republic)"
 msgstr "କଙ୍ଗୋ-ବ୍ରାଜିଭିଲ୍ଲେ"
 
 #: CH
@@ -170,7 +170,7 @@ msgid "Switzerland"
 msgstr "ସ୍ବିଜରଲ୍ୟାଣ୍ଡ"
 
 #: CI
-msgid "Côte d’Ivoire"
+msgid "Côte d’Ivoire,Ivory Coast"
 msgstr "ଆଇବରୀ କୋଷ୍ଟ"
 
 #: CK
@@ -214,7 +214,7 @@ msgid "Cyprus"
 msgstr "ସାଇପ୍ରସ୍"
 
 #: CZ
-msgid "Czechia"
+msgid "Czechia,Czech Republic"
 msgstr "ଚେକ୍ ସାଧାରଣତନ୍ତ୍ର"
 
 #: DE
@@ -278,7 +278,7 @@ msgid "Fiji"
 msgstr "ଫିଜି"
 
 #: FK
-msgid "Falkland Islands"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
 msgstr "ଫଲ୍କଲ୍ୟାଣ୍ଡ ଦ୍ବୀପପୁଞ୍ଜ"
 
 #: FM
@@ -566,7 +566,7 @@ msgid "Marshall Islands"
 msgstr "ମାର୍ଶଲ୍ ଦ୍ବୀପପୁଞ୍ଜ"
 
 #: MK
-msgid "Macedonia"
+msgid "Macedonia,Macedonia (FYROM)"
 msgstr "ମାସେଡୋନିଆ"
 
 #: ML
@@ -870,7 +870,7 @@ msgid "Tokelau"
 msgstr "ଟୋକେଲାଉ"
 
 #: TL
-msgid "Timor-Leste"
+msgid "Timor-Leste,East Timor"
 msgstr "ପୁର୍ବ ତିମୋର୍"
 
 #: TM

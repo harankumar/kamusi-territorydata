@@ -162,36 +162,24 @@ msgid "Cocos (Keeling) Islands"
 msgstr "코코스 제도"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "콩고-킨샤사"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "콩고민주공화국"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "콩고-킨샤사,콩고민주공화국"
 
 #: CF
 msgid "Central African Republic"
 msgstr "중앙 아프리카 공화국"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "콩고-브라자빌"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "콩고 공화국"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "콩고-브라자빌,콩고 공화국"
 
 #: CH
 msgid "Switzerland"
 msgstr "스위스"
 
 #: CI
-msgid "Côte d’Ivoire"
-msgstr "코트디부아르"
-
-#: CI-variant
-msgid "Ivory Coast"
-msgstr "아이보리 코스트"
+msgid "Côte d’Ivoire,Ivory Coast"
+msgstr "코트디부아르,아이보리 코스트"
 
 #: CK
 msgid "Cook Islands"
@@ -242,7 +230,7 @@ msgid "Cyprus"
 msgstr "키프로스"
 
 #: CZ
-msgid "Czechia"
+msgid "Czechia,Czech Republic"
 msgstr "체코"
 
 #: DE
@@ -314,12 +302,8 @@ msgid "Fiji"
 msgstr "피지"
 
 #: FK
-msgid "Falkland Islands"
-msgstr "포클랜드 제도"
-
-#: FK-variant
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "포클랜드 제도(말비나스 군도)"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
+msgstr "포클랜드 제도,포클랜드 제도(말비나스 군도)"
 
 #: FM
 msgid "Micronesia"
@@ -618,12 +602,8 @@ msgid "Marshall Islands"
 msgstr "마셜 제도"
 
 #: MK
-msgid "Macedonia"
-msgstr "마케도니아"
-
-#: MK-variant
-msgid "Macedonia (FYROM)"
-msgstr "마케도니아(FYROM)"
+msgid "Macedonia,Macedonia (FYROM)"
+msgstr "마케도니아,마케도니아(FYROM)"
 
 #: ML
 msgid "Mali"
@@ -942,7 +922,7 @@ msgid "Tokelau"
 msgstr "토켈라우"
 
 #: TL
-msgid "Timor-Leste"
+msgid "Timor-Leste,East Timor"
 msgstr "동티모르"
 
 #: TM

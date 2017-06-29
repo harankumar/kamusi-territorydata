@@ -34,7 +34,7 @@ msgid "Canada"
 msgstr "Ukanada"
 
 #: CG
-msgid "Congo - Brazzaville"
+msgid "Congo - Brazzaville,Congo (Republic)"
 msgstr "Ukongo"
 
 #: CH
@@ -42,7 +42,7 @@ msgid "Switzerland"
 msgstr "Uswisi"
 
 #: CI
-msgid "Côte d’Ivoire"
+msgid "Côte d’Ivoire,Ivory Coast"
 msgstr "Ukodiva"
 
 #: CL
@@ -66,7 +66,7 @@ msgid "Cyprus"
 msgstr "Ukuprosi"
 
 #: CZ
-msgid "Czechia"
+msgid "Czechia,Czech Republic"
 msgstr "Ucheki"
 
 #: DJ
@@ -298,7 +298,7 @@ msgid "Madagascar"
 msgstr "Ubukini"
 
 #: MK
-msgid "Macedonia"
+msgid "Macedonia,Macedonia (FYROM)"
 msgstr "Umasedonia"
 
 #: MW
@@ -470,7 +470,7 @@ msgid "Tokelau"
 msgstr "Utokelau"
 
 #: TL
-msgid "Timor-Leste"
+msgid "Timor-Leste,East Timor"
 msgstr "Utimo Mashariki"
 
 #: TM

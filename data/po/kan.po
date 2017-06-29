@@ -162,36 +162,24 @@ msgid "Cocos (Keeling) Islands"
 msgstr "ಕೊಕೊಸ್ (ಕೀಲಿಂಗ್) ದ್ವೀಪಗಳು"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "ಕಾಂಗೋ - ಕಿನ್ಶಾಸಾ"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "ಕಾಂಗೋ (DRC)"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "ಕಾಂಗೋ - ಕಿನ್ಶಾಸಾ,ಕಾಂಗೋ (DRC)"
 
 #: CF
 msgid "Central African Republic"
 msgstr "ಮಧ್ಯ ಆಫ್ರಿಕಾ ಗಣರಾಜ್ಯ"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "ಕಾಂಗೋ - ಬ್ರಾಜಾವಿಲ್ಲೇ"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "ಕಾಂಗೋ (ಗಣರಾಜ್ಯ)"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "ಕಾಂಗೋ - ಬ್ರಾಜಾವಿಲ್ಲೇ,ಕಾಂಗೋ (ಗಣರಾಜ್ಯ)"
 
 #: CH
 msgid "Switzerland"
 msgstr "ಸ್ವಿಟ್ಜರ್ಲ್ಯಾಂಡ್"
 
 #: CI
-msgid "Côte d’Ivoire"
-msgstr "ಕೋತ್‌ ದಿವಾರ್‍"
-
-#: CI-variant
-msgid "Ivory Coast"
-msgstr "ಐವರಿ ಕೋಸ್ಟ್"
+msgid "Côte d’Ivoire,Ivory Coast"
+msgstr "ಕೋತ್‌ ದಿವಾರ್‍,ಐವರಿ ಕೋಸ್ಟ್"
 
 #: CK
 msgid "Cook Islands"
@@ -242,12 +230,8 @@ msgid "Cyprus"
 msgstr "ಸೈಪ್ರಸ್"
 
 #: CZ
-msgid "Czechia"
-msgstr "ಝೆಕಿಯಾ"
-
-#: CZ-variant
-msgid "Czech Republic"
-msgstr "ಝೆಕ್ ರಿಪಬ್ಲಿಕ್"
+msgid "Czechia,Czech Republic"
+msgstr "ಝೆಕಿಯಾ,ಝೆಕ್ ರಿಪಬ್ಲಿಕ್"
 
 #: DE
 msgid "Germany"
@@ -318,12 +302,8 @@ msgid "Fiji"
 msgstr "ಫಿಜಿ"
 
 #: FK
-msgid "Falkland Islands"
-msgstr "ಫಾಲ್ಕ್‌ಲ್ಯಾಂಡ್ ದ್ವೀಪಗಳು"
-
-#: FK-variant
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "ಫಾಲ್ಕ್‌ಲ್ಯಾಂಡ್ ದ್ವೀಪಗಳು (ಇಸ್ಲಾಸ್ ಮಾಲ್ವಿನಸ್)"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
+msgstr "ಫಾಲ್ಕ್‌ಲ್ಯಾಂಡ್ ದ್ವೀಪಗಳು,ಫಾಲ್ಕ್‌ಲ್ಯಾಂಡ್ ದ್ವೀಪಗಳು (ಇಸ್ಲಾಸ್ ಮಾಲ್ವಿನಸ್)"
 
 #: FM
 msgid "Micronesia"
@@ -622,12 +602,8 @@ msgid "Marshall Islands"
 msgstr "ಮಾರ್ಷಲ್ ದ್ವೀಪಗಳು"
 
 #: MK
-msgid "Macedonia"
-msgstr "ಮ್ಯಾಸಿಡೋನಿಯಾ"
-
-#: MK-variant
-msgid "Macedonia (FYROM)"
-msgstr "ಮ್ಯಾಸಿಡೋನಿಯ (FYROM)"
+msgid "Macedonia,Macedonia (FYROM)"
+msgstr "ಮ್ಯಾಸಿಡೋನಿಯಾ,ಮ್ಯಾಸಿಡೋನಿಯ (FYROM)"
 
 #: ML
 msgid "Mali"
@@ -946,12 +922,8 @@ msgid "Tokelau"
 msgstr "ಟೊಕೆಲಾವ್"
 
 #: TL
-msgid "Timor-Leste"
-msgstr "ಪೂರ್ವ ತಿಮೋರ್"
-
-#: TL-variant
-msgid "East Timor"
-msgstr "ಪೂರ್ವ ಟಿಮೋರ್"
+msgid "Timor-Leste,East Timor"
+msgstr "ಪೂರ್ವ ತಿಮೋರ್,ಪೂರ್ವ ಟಿಮೋರ್"
 
 #: TM
 msgid "Turkmenistan"

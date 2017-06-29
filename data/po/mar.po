@@ -162,31 +162,23 @@ msgid "Cocos (Keeling) Islands"
 msgstr "कोकोस (कीलिंग) बेटे"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "काँगो - किंशासा"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "काँगो (डीआरसी)"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "काँगो - किंशासा,काँगो (डीआरसी)"
 
 #: CF
 msgid "Central African Republic"
 msgstr "केंद्रीय अफ्रिकी प्रजासत्ताक"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "काँगो - ब्राझाविले"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "काँगो (प्रजासत्ताक)"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "काँगो - ब्राझाविले,काँगो (प्रजासत्ताक)"
 
 #: CH
 msgid "Switzerland"
 msgstr "स्वित्झर्लंड"
 
 #: CI
-msgid "Côte d’Ivoire"
+msgid "Côte d’Ivoire,Ivory Coast"
 msgstr "आयव्हरी कोस्ट"
 
 #: CK
@@ -238,12 +230,8 @@ msgid "Cyprus"
 msgstr "सायप्रस"
 
 #: CZ
-msgid "Czechia"
-msgstr "झेकिया"
-
-#: CZ-variant
-msgid "Czech Republic"
-msgstr "झेक प्रजासत्ताक"
+msgid "Czechia,Czech Republic"
+msgstr "झेकिया,झेक प्रजासत्ताक"
 
 #: DE
 msgid "Germany"
@@ -314,12 +302,8 @@ msgid "Fiji"
 msgstr "फिजी"
 
 #: FK
-msgid "Falkland Islands"
-msgstr "फॉकलंड बेटे"
-
-#: FK-variant
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "फॉकलंड बेटे (इस्लास मालविनास)"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
+msgstr "फॉकलंड बेटे,फॉकलंड बेटे (इस्लास मालविनास)"
 
 #: FM
 msgid "Micronesia"
@@ -618,12 +602,8 @@ msgid "Marshall Islands"
 msgstr "मार्शल बेटे"
 
 #: MK
-msgid "Macedonia"
-msgstr "मॅसेडोनिया"
-
-#: MK-variant
-msgid "Macedonia (FYROM)"
-msgstr "मॅसेडोनिया (FYROM)"
+msgid "Macedonia,Macedonia (FYROM)"
+msgstr "मॅसेडोनिया,मॅसेडोनिया (FYROM)"
 
 #: ML
 msgid "Mali"
@@ -942,12 +922,8 @@ msgid "Tokelau"
 msgstr "तोकेलाउ"
 
 #: TL
-msgid "Timor-Leste"
-msgstr "तिमोर-लेस्ते"
-
-#: TL-variant
-msgid "East Timor"
-msgstr "पूर्व तिमोर"
+msgid "Timor-Leste,East Timor"
+msgstr "तिमोर-लेस्ते,पूर्व तिमोर"
 
 #: TM
 msgid "Turkmenistan"

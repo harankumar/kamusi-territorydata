@@ -134,7 +134,7 @@ msgid "Canada"
 msgstr "Orílɛ́ède Kánádà"
 
 #: CD
-msgid "Congo - Kinshasa"
+msgid "Congo - Kinshasa,Congo (DRC)"
 msgstr "Orilɛ́ède Kóngò"
 
 #: CF
@@ -142,7 +142,7 @@ msgid "Central African Republic"
 msgstr "Orílɛ́ède Àrin gùngun Áfíríkà"
 
 #: CG
-msgid "Congo - Brazzaville"
+msgid "Congo - Brazzaville,Congo (Republic)"
 msgstr "Orílɛ́ède Kóngò"
 
 #: CH
@@ -150,7 +150,7 @@ msgid "Switzerland"
 msgstr "Orílɛ́ède switishilandi"
 
 #: CI
-msgid "Côte d’Ivoire"
+msgid "Côte d’Ivoire,Ivory Coast"
 msgstr "Orílɛ́ède Kóútè forà"
 
 #: CK
@@ -190,7 +190,7 @@ msgid "Cyprus"
 msgstr "Orílɛ́ède Kúrúsì"
 
 #: CZ
-msgid "Czechia"
+msgid "Czechia,Czech Republic"
 msgstr "Orílɛ́ède shɛ́ɛ́kì"
 
 #: DE
@@ -250,7 +250,7 @@ msgid "Fiji"
 msgstr "Orílɛ́ède Fiji"
 
 #: FK
-msgid "Falkland Islands"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
 msgstr "Orílɛ́ède Etikun Fakalandi"
 
 #: FM
@@ -502,7 +502,7 @@ msgid "Marshall Islands"
 msgstr "Orílɛ́ède Etikun Máshali"
 
 #: MK
-msgid "Macedonia"
+msgid "Macedonia,Macedonia (FYROM)"
 msgstr "Orílɛ́ède Masidonia"
 
 #: ML
@@ -745,6 +745,10 @@ msgstr "Orílɛ́ède Somalia"
 msgid "Suriname"
 msgstr "Orílɛ́ède Surinami"
 
+#: SS
+msgid "South Sudan"
+msgstr "Gúúsù Sudan"
+
 #: ST
 msgid "São Tomé & Príncipe"
 msgstr "Orílɛ́ède Sao tomi ati piriishipi"
@@ -786,7 +790,7 @@ msgid "Tokelau"
 msgstr "Orílɛ́ède Tokelau"
 
 #: TL
-msgid "Timor-Leste"
+msgid "Timor-Leste,East Timor"
 msgstr "Orílɛ́ède ÌlàOòrùn Tímɔ̀"
 
 #: TM

@@ -162,36 +162,24 @@ msgid "Cocos (Keeling) Islands"
 msgstr "كوكوس (كىلىڭ) ئاراللىرى"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "كونگو - كىنشاسا"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "كونگو (ك د ج)"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "كونگو - كىنشاسا,كونگو (ك د ج)"
 
 #: CF
 msgid "Central African Republic"
 msgstr "ئوتتۇرا ئافرىقا جۇمھۇرىيىتى"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "كونگو - بىراززاۋىل"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "كونگو (جۇمھۇرىيىتى)"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "كونگو - بىراززاۋىل,كونگو (جۇمھۇرىيىتى)"
 
 #: CH
 msgid "Switzerland"
 msgstr "شىۋېتسارىيە"
 
 #: CI
-msgid "Côte d’Ivoire"
-msgstr "كوتې دې ئىۋوئىر"
-
-#: CI-variant
-msgid "Ivory Coast"
-msgstr "پىل چىشى قىرغىقى"
+msgid "Côte d’Ivoire,Ivory Coast"
+msgstr "كوتې دې ئىۋوئىر,پىل چىشى قىرغىقى"
 
 #: CK
 msgid "Cook Islands"
@@ -242,7 +230,7 @@ msgid "Cyprus"
 msgstr "سىپرۇس"
 
 #: CZ
-msgid "Czechia"
+msgid "Czechia,Czech Republic"
 msgstr "چېخ جۇمھۇرىيىتى"
 
 #: DE
@@ -314,12 +302,8 @@ msgid "Fiji"
 msgstr "فىجى"
 
 #: FK
-msgid "Falkland Islands"
-msgstr "فالكلاند ئاراللىرى"
-
-#: FK-variant
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "فالكلاند ئاراللىرى (ئىسلاس مالۋىناس)"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
+msgstr "فالكلاند ئاراللىرى,فالكلاند ئاراللىرى (ئىسلاس مالۋىناس)"
 
 #: FM
 msgid "Micronesia"
@@ -618,12 +602,8 @@ msgid "Marshall Islands"
 msgstr "مارشال ئاراللىرى"
 
 #: MK
-msgid "Macedonia"
-msgstr "ماكېدونىيە"
-
-#: MK-variant
-msgid "Macedonia (FYROM)"
-msgstr "ماكېدونىيە (س ي م ج)"
+msgid "Macedonia,Macedonia (FYROM)"
+msgstr "ماكېدونىيە,ماكېدونىيە (س ي م ج)"
 
 #: ML
 msgid "Mali"
@@ -942,7 +922,7 @@ msgid "Tokelau"
 msgstr "توكېلاۋ"
 
 #: TL
-msgid "Timor-Leste"
+msgid "Timor-Leste,East Timor"
 msgstr "شەرقىي تىمور"
 
 #: TM

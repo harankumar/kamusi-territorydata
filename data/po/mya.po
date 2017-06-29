@@ -162,36 +162,24 @@ msgid "Cocos (Keeling) Islands"
 msgstr "ကိုကိုးကျွန်း"
 
 #: CD
-msgid "Congo - Kinshasa"
-msgstr "ကွန်ဂို"
-
-#: CD-variant
-msgid "Congo (DRC)"
-msgstr "ကွန်ဂို ဒီမိုကရက်တစ် သမ္မတနိုင်ငံ"
+msgid "Congo - Kinshasa,Congo (DRC)"
+msgstr "ကွန်ဂို,ကွန်ဂို ဒီမိုကရက်တစ် သမ္မတနိုင်ငံ"
 
 #: CF
 msgid "Central African Republic"
 msgstr "ဗဟို အာဖရိက ပြည်ထောင်စု"
 
 #: CG
-msgid "Congo - Brazzaville"
-msgstr "ကွန်ဂို-ဘရာဇာဗီးလ်"
-
-#: CG-variant
-msgid "Congo (Republic)"
-msgstr "ကွန်ဂို သမ္မတနိုင်ငံ"
+msgid "Congo - Brazzaville,Congo (Republic)"
+msgstr "ကွန်ဂို-ဘရာဇာဗီးလ်,ကွန်ဂို သမ္မတနိုင်ငံ"
 
 #: CH
 msgid "Switzerland"
 msgstr "ဆွစ်ဇာလန်"
 
 #: CI
-msgid "Côte d’Ivoire"
-msgstr "ကို့တ် ဒီဗွာ"
-
-#: CI-variant
-msgid "Ivory Coast"
-msgstr "အိုင်ဗရီကို့စ်"
+msgid "Côte d’Ivoire,Ivory Coast"
+msgstr "ကို့တ် ဒီဗွာ,အိုင်ဗရီကို့စ်"
 
 #: CK
 msgid "Cook Islands"
@@ -242,12 +230,8 @@ msgid "Cyprus"
 msgstr "ဆိုက်ပရပ်စ်"
 
 #: CZ
-msgid "Czechia"
-msgstr "ချက်ကီယား"
-
-#: CZ-variant
-msgid "Czech Republic"
-msgstr "ချက် ပြည်ထောင်စု"
+msgid "Czechia,Czech Republic"
+msgstr "ချက်ကီယား,ချက် ပြည်ထောင်စု"
 
 #: DE
 msgid "Germany"
@@ -318,12 +302,8 @@ msgid "Fiji"
 msgstr "ဖီဂျီ"
 
 #: FK
-msgid "Falkland Islands"
-msgstr "ဖော့ကလန် ကျွန်းစု"
-
-#: FK-variant
-msgid "Falkland Islands (Islas Malvinas)"
-msgstr "ဖော့ကလန် ကျွန်းစု (အီလားစ် မောလ်ဗီနာစ်)"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
+msgstr "ဖော့ကလန် ကျွန်းစု,ဖော့ကလန် ကျွန်းစု (အီလားစ် မောလ်ဗီနာစ်)"
 
 #: FM
 msgid "Micronesia"
@@ -622,12 +602,8 @@ msgid "Marshall Islands"
 msgstr "မာရှယ် ကျွန်းစု"
 
 #: MK
-msgid "Macedonia"
-msgstr "မက်စီဒိုးနီးယား"
-
-#: MK-variant
-msgid "Macedonia (FYROM)"
-msgstr "မက်စီဒိုးနီးယား (ယခင် ယူဂိုစလားဗီးယား မက်စီဒိုးနီးယားပြည်ထောင်စု)"
+msgid "Macedonia,Macedonia (FYROM)"
+msgstr "မက်စီဒိုးနီးယား,မက်စီဒိုးနီးယား (ယခင် ယူဂိုစလားဗီးယား မက်စီဒိုးနီးယားပြည်ထောင်စု)"
 
 #: ML
 msgid "Mali"
@@ -946,7 +922,7 @@ msgid "Tokelau"
 msgstr "တိုကလောင်"
 
 #: TL
-msgid "Timor-Leste"
+msgid "Timor-Leste,East Timor"
 msgstr "အရှေ့တီမော"
 
 #: TM

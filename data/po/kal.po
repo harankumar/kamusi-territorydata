@@ -146,11 +146,11 @@ msgid "Cocos (Keeling) Islands"
 msgstr "Cocos qeqertaq"
 
 #: CD
-msgid "Congo - Kinshasa"
+msgid "Congo - Kinshasa,Congo (DRC)"
 msgstr "Kongo-Kinshasa"
 
 #: CG
-msgid "Congo - Brazzaville"
+msgid "Congo - Brazzaville,Congo (Republic)"
 msgstr "Kongo-Brazzaville"
 
 #: CH
@@ -206,7 +206,7 @@ msgid "Cyprus"
 msgstr "Cypern"
 
 #: CZ
-msgid "Czechia"
+msgid "Czechia,Czech Republic"
 msgstr "Tjekkia"
 
 #: DE
@@ -274,7 +274,7 @@ msgid "Fiji"
 msgstr "Fiji"
 
 #: FK
-msgid "Falkland Islands"
+msgid "Falkland Islands,Falkland Islands (Islas Malvinas)"
 msgstr "Falklandi qeqertaq"
 
 #: FM
@@ -546,7 +546,7 @@ msgid "Madagascar"
 msgstr "Madagaskar"
 
 #: MK
-msgid "Macedonia"
+msgid "Macedonia,Macedonia (FYROM)"
 msgstr "Makedonia"
 
 #: ML
@@ -810,7 +810,7 @@ msgid "Tokelau"
 msgstr "Tokelau"
 
 #: TL
-msgid "Timor-Leste"
+msgid "Timor-Leste,East Timor"
 msgstr "Timor Kangilliit"
 
 #: TM
